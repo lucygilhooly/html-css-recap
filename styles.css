@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: lightcyan;
 }
 
 header {
@@ -18,7 +19,8 @@ section {
     font-weight: bold;
     font-size: 30px;
     color: blue;
-    border: 10px, solid, black;
-    border-radius: 5px;
+}
 
+footer h2 {
+    font-size: 15px;
 }
