@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: lightcyan;
+    text-align: center;
 }
 
 header {
@@ -22,5 +23,13 @@ section {
 }
 
 footer h2 {
-    font-size: 15px;
+    font-size: 17px;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
