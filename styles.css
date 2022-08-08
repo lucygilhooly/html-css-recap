@@ -33,3 +33,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.todo-item {
+    font-weight: bold;
+    list-style: none;
+    margin: auto;
+}
